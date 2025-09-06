@@ -1,0 +1,81 @@
+DATA 06/09/2025
+
+LPA
+
+ESTRUTURA DE DECISAO
+
+ESTRUTURA DE REPETIÇÃO
+
+ORIENTAÇÃO A OBJETOS
+
+
+===========================================================
+
+
+ORIENTAÇÃO A OBJETOS
+
+"Orientada a objetos" refere-se a um paradigma de programação e desenvolvimento de sistemas onde o código e os dados são organizados em torno de objetos, unidades que combinam dados (atributos) e comportamentos (métodos) para modelar entidades do mundo real, promovendo modularidade e reutilização de código. 
+
+
+Estruturado - qualquer problema pode ser resolvido utilizando 3 estruturas: sequencial, condicional
+
+Orientado a objetos - o problema e considerado como uma colecao
+
+
+==== Tradicional == RUIM
+
+Elevado numero de linhas de códigos
+não há separação
+difícil manutenção
+dificuldade no reaproveitamento
+dividir tarefas em pequenos blocos
+
+=== Técnica Tradicional - fluxograma ===
+
+A programação orientada a objetos foi desenvolvida para resolver todos os problemas encontrados nas técnicas tradicionais , empregando objetos para streitar a relação entro o mundo real e o virtual
+
+Qualquer coisa que exista no mundo real pode ser visto como u m objeto independentemente de ser concreto ou não
+
+maior produtividade
+flexibilidade
+fácil manutenção
+reutilzação de códigos
+
+orientação a objetos
+
+classe ==> definimos a estrutura interna dos objetos, estabelecendo seus estados e comportamentos. ela atua como um molde para os objetos. inúmeros objetos podem ser criados pertencendo a mesma classe
+atributos
+metodos
+
+
+objeto, classe, polimorfismo, herança, interface, encapsulamento
+objetos: atributos == praticamente totodo o processamento em sistemas que utilizam programação 
+entidade do mundo real que possui  3 características basicas
+identidade unica
+estado
+comportamento
+tangível intangível
+
+ex:
+intagivel: venda, formas, casamento
+tangível: celular
+
+devido as suas identidades únicas, os objetos se diferenciam entre si, mesmo que compartilham características comuns
+
+identidade única: Chassi de carro, dois do mesmo eles não são iguais, pessoassão diferentes
+
+estado de um objeto - atributos diferentes
+
+objeto cliente: nome, tipo, cpf, rg
+objeto carro: nome, tipo, fabricantes
+
+funções: comprar, alterar pedido, cancelar pedido
+pergunta: quais os atributos e métodos podemos identificar no objeto
+
+=== Atributos são as características ou propriedades que definem o estado de um objeto, enquanto métodos são as ações ou comportamentos que um objeto pode realizar. Por exemplo, numa classe "Cachorro", "cor" e "raça" seriam atributos, e "latir" e "correr" seriam métodos.  ===
+
+
+### QUANDO CRAIRMOS CLASSE SEMPRE COLOCAR EM MAIUSCULO ###
+
+
+

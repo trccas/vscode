@@ -1,0 +1,189 @@
+### COMENTARIOS ######
+
+# Comentário de uma linha
+
+"""
+Comentário mais
+de
+uma
+linha
+
+ALT SHIF A  --> comentário sem precisar digitar
+
+"""
+
+-------------------------------------------------------------------------------------------
+
+### PRINT ######
+
+print ("ola mundo !")
+
+-------------------------------------------------------------------------------------------
+variaveis
+
+#Escola SENAI
+nota1 = 10
+nota2 = 9
+nota3 = 8
+nota4 = 10
+
+#Qual a média do Aluno?
+
+#Divisão
+resultado4=  (nota1 + nota2 + nota3 + nota4) / 4
+print(resultado4)
+
+#Qual a média do Aluno 2?
+resultado = nota1 + nota2 + nota3 + nota4
+resultadoFinal = resultado / 4
+
+----------------------------------------------------
+
+#Escola SENAI 2 - entradas de input
+
+print("Por favor digite as notas abaixo:")
+
+
+nota1 = float (input("Digite a primeira nota:"))
+nota2 = float (input("Digite a segunda nota:"))
+nota3 = float (input("Digite a terceira nota:"))
+nota4 = float (input("Digite a quarta nota:"))
+
+
+#Resultado
+
+resultado = nota1 + nota2 + nota3 + nota4
+resultadoFinal = resultado / 4
+
+print(resultadoFinal) 
+
+### float serve pra representar numeros com precisao - numeros que não são inteiros
+
+#cadastro - entradas de input
+#Solicite o nome, email e senha do usuário
+
+nome = input("Digite o seu nome:")
+email = input("Digite o seu email:")
+senha = input("Digite a sua senha:")
+
+
+if nome.strip() == "":
+    print("nome nao foi preeenchido")
+    
+# Logo em seguida realize um PRINT com suas infos
+
+print("O seu nome é:", nome)
+print("O seu email é:", email)
+print("A sua senha é:", senha)
+
+#calculadora - entradas de input
+print("Bem vindo a calculadora ---CALC...")
+print("..................................")
+print("Testes de soma")
+print("..................................")
+
+## int / float
+
+valor1 = float (input("Digite o valor 1:"))
+valor2 = float (input("Digite o valor 2:"))
+
+resultado = valor1 + valor2
+print("O seu resultado é:", resultado)
+
+-------------------------------------------------------------------------------------------
+login: usar instrução se senao
+
+print("SISTEMA DA ADMNISTRAÇÃO")
+
+usuario = input("Digite o usuário: ")
+senha = input("Digite a senha: ")
+
+if usuario == "admin":
+    if senha == "123456":
+        print("Login bem sucedido!")
+    else:
+        print("usuário ou senha incorreta")
+else:
+    print("usuário ou senha incorreta")
+
+--------------------------------------------------------
+## banco: usar instrução se senao 
+
+print ("Bem vindo ao Banco girabonk")
+saldo = float(input(" Digite seu saldo... R$"))
+
+transferencia = float (input("Qual o valor da transferência? R$"))
+
+# valide se ela possui saldo suficiente para transferência
+if saldo >= transferencia:
+    print("saldo suficiente!")
+    # Atualizandio valor do saldo
+    saldo - transferencia
+    print("Seu saldo atual é de R$", saldo)
+else:
+    print("Saldo não é suficiente")
+
+
+--------------------------------------------------------
+
+## verificador: usar instrução se senao 
+idade = int(input("Digite sua idade.. "))
+
+if idade < 18:
+    print("Você é menor de idade.")
+else:
+    print("Maior de idade")
+    # and -> 0
+    if idade >= 18 and idade <= 70:
+        print("Seu voto é obrigatório")
+    else:
+        print("Seu voto é facultativo")
+
+----------------------------------------------------------------------------
+## cinema: usar instrução se senao sesim
+
+print ("-----------------------------")
+print ("Bem vindo ao cinema Gatoflix")
+print ("-----------------------------")
+idade =int(input("Digite sua idade...."))
+
+
+# Estrutura de Decisão
+
+if idade >= 35:
+    print("Pode entrar no Gatoflix")
+
+elif idade >= 18:
+    print("Não pode entrar no Gatoflix")
+
+else:
+        print("Não pode entrar no Gatoflix, vai embora")
+
+
+"""
+
+if -> SE
+elif -> menor
+
+> -> maior
+<  --> menor
+
+>= -> maior igual
+<  --> menor igual
+== -> igualdade
+
+"""
+-------------------------------------------------------------------------------------------
+
+ARQUIVOS VISTOS
+aula1.py
+helloworld.py
+escola.py
+escola2.py
+login.py
+banco.py
+cadastro.py
+calculadora.py
+cinema.py
+verificador.py
+operador.py
