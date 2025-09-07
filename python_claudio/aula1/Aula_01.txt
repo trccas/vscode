@@ -1,0 +1,89 @@
+Data: 23/08/2025
+
+
+HORARIOS: 10:40 HS
+13:00 / 14:00
+
+15:40 HS
+
+google v3 pitamide egito
+ver certificação de python cisco
+tensor flow
+
+--------------------------------------------------
+
+
+Python ==> le o codigo de forma asincrona
+
+cmd
+
+C:\Users\Aluno>python --version
+
+Python 3.13.5
+
+C:\Users\Aluno>
+
+--------------------------------------------------
+
+baixar python
+
+https://www.python.org/
+
+Download
+Latest: Python 3.13.7
+
+--------------------------------------------------
+
+visual studio code ==> editor de código
+vscode
+
+https://code.visualstudio.com/
+
+--------------------------------------------------
+
+Selecionar pasta origem no python
+fica marcado no canto superior esquerdo a pasta de origem
+ex: python_claudio
+
+--------------------------------------------------
+
+python_claudio do lado 4 icones
+criar pasta aula1
+criar arquivo helloworld.py
+
+--------------------------------------------------
+
+## no powershell pode usar comandos linux e windows
+print ("ola mundo !")
+
+abrir terminal
+cd aula1
+
+PS D:\Users\Aluno\Documents\python_claudio>  cd aula1
+PS D:\Users\Aluno\Documents\python_claudio\aula1> python helloword.py
+
+--------------------------------------------------
+
+ALT SHIF A  --> comentário sem precisar digitar
+
+--------------------------------------------------
+
+site monkeytype - site pra praticar treinar digitação
+
+--------------------------------------------------
+
+PS D:\Users\Aluno\Documents\python_claudio\aula1> python aula1.py
+Aprendendo sobre comentários
+
+--------------------------------------------------
+
+string ==> variavel texto == inteiro
+
+--------------------------------------------------
+
+ROAD MAP
+
+CONCEITOS
+ESTRUTURA DE DECISAO
+ESTRUTURA DE REPETIÇÃO --> CLASSES - OBJETOS - FOR WHILE  - SALVAR ARQUIVO - CSV - POLIMORFICO, AUTOMACAO - DASHBOARDS, IA, IA/DEV 
+
