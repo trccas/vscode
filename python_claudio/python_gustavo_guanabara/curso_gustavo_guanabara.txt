@@ -1,0 +1,63 @@
+curso em vídeo - python - youtube - Gustavo Guanabara
+
+Curso Python #01 - Seja um Programador
+https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+
+Curso Python #02 - Para que serve o Python?
+https://www.youtube.com/watch?v=Mp0vhMDI7fA
+
+Curso Python #03 - Instalando o Python3 e o IDLE
+https://www.youtube.com/watch?v=VuKvR1J2LQE
+
+
+Curso Python #04 - Primeiros comandos em Python3
+https://www.youtube.com/watch?v=31llNGKWDdo
+
+
+
+Curso Python #05 - Instalando o PyCharm e o QPython
+https://www.youtube.com/watch?v=ElRd0cbXIv4
+
+
+import this
+==> the zen of python, by Tim peters
+
+=============================================================
+
+https://www.cursoemvideo.com/matricula-gratis/
+
+EMAIL:trccas06@gmail.com
+SENHA: Wfa8720#
+
+https://www.cursoemvideo.com/curso/curso-de-git-e-github/aulas/aulas-de-git-e-github/
+
+https://www.youtube.com/watch?v=xEKo29OWILE&t=14s
+=============================================================
+
+https://www.cursoemvideo.com/cursos/
+https://www.cursoemvideo.com/curso/curso-de-git-e-github/
+https://www.cursoemvideo.com/curso/curso-de-ingles-para-iniciantes-modulo-1-beginners-gratis-e-completo/
+
+
+=============================================================
+
+
+https://rachacuca.com.br/
+
+https://github.com/rmveiga/exercicios_python
+
+https://hub.asimov.academy/blog/exercicios-de-python-para-iniciantes/
+
+https://blog.casadodesenvolvedor.com.br/exercicios-de-python/
+
+=============================================================
+https://www.hashtagtreinamentos.com/exercicios-em-python?conversion=base-ex-go-post-novos&gad_source=1&gad_campaignid=22810243158&gbraid=0AAAAADLlh89fQx8o5FuL5B5jHXT9iv7UP&gclid=Cj0KCQjwwsrFBhD6ARIsAPnUFD3g-57kzZFVZZpPffyuZr8x3ETC5_l4JEMJJo3oS2ElhvYuTkdQNysaAi7VEALw_wcB
+
+=============================================================
+
+https://www.online-python.com/
+
+=============================================================
+
+
+
